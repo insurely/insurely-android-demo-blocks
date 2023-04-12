@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#00884F</color>
+    <color name="grannySmith">#A2E96B</color>
+    <color name="grannySmithDark">#81CF44</color>
+    <color name="midnight">#213123</color>
+    <color name="midnightDark">#162319</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
