@@ -1,4 +1,4 @@
-# Insurely iOS Blocks
+# Insurely Android Blocks
 
 This project shows how to use the Insurely blocks WebView as described [here](https://docs.insurely.com/products/insurance-data-aggregation).
 
